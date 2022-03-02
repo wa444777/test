@@ -6,7 +6,9 @@ public class Sample {
 		int a=10;
 		int b=20;
 		int c=a+b;
-		System.out.println("Result : "+c);
+		int d=c*30;
+		
+		System.out.println("Result : "+d);
 		
 	}
 
